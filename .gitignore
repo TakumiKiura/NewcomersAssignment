@@ -1,0 +1,25 @@
+#
+# Python
+#
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+#
+# VSCode
+#
+.vscode/
+
+#
+# Output
+#
+**/output/
+
+
+#
+# OS
+#
+.DS_Store
+Thumbs.db
