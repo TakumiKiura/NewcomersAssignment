@@ -5,7 +5,7 @@ This directory contains the images used for image difference detection.
 ## Image Sources
 ### `original01.jpg`
 - Source: https://www.flickr.com/photos/24046097@N00/7238812536
-- License: Public domain
+- License: CC0 (Public domain dedication)
 
 ## Modified Images
 ### `modified01.jpg`
