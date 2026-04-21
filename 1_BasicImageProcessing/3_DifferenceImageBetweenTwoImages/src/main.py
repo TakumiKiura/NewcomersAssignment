@@ -20,7 +20,7 @@ def save_img(img, dir_path, filename):
     # save as .jpg
     result_diff = cv2.imwrite(os.path.join(dir_path, filename), img)
     if result_diff == False:
-        print("Can't save the image: diff.jpg")
+        print("Can't save the image: ", filename)
         exit()
 
 
