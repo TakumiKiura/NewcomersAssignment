@@ -14,5 +14,12 @@ print("B.dtype: ", B.dtype)
 
 print("A + B = ", A+B)
 print("A - B = ", A-B)
-print("A * B = ", A*B)
+
+# this is calculation by element
+print("simply calc: A * B = ", A*B)
+
 print("A / B = ", A/B)
+
+
+#this is the correct matrix calculation
+print("numpy calc: A * B = ", np.matmul(A, B))
