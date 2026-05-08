@@ -3,9 +3,9 @@ import cv2
 img = cv2.imread("img/img01.jpg")
 
 # display an image
-cv2.imshow("HelloWorld",img)
+cv2.imshow("clock",img)
 cv2.waitKey(0)
-cv2.destroyWindow("HelloWorld")
+cv2.destroyWindow("clock")
 
 
 #
